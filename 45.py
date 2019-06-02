@@ -9,7 +9,7 @@ bot.send_message(227754968, "sava")
 def hadle_text(message):
     if message.text == "Sartoroshxona yopil":
 		bot.send_message(227754968, "yov")
-	elif:
+	else:
 	bot.send_message(227754968, "yov yov")
 	
 	
